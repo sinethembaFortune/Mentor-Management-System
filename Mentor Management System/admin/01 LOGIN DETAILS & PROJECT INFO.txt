@@ -1,0 +1,18 @@
+
+
+**Database Name: cbsphp**
+
+**Developed by Mr**
+
+**Recommended PHP Version 7.4**
+
+
+**Admin Login Details**
+
+Username: admin
+Password: 1234
+
+
+**Mentor Login Details**
+Username: 111
+Password: 123
